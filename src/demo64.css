@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-image: url(./images64/bg1.PNG);
+  background-size: cover;
+}
+
+img {
+  height: 480px;
+  width: 370px;
+}
